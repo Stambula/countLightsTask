@@ -1,6 +1,8 @@
 # transport-Task
 
-
+Count how many lights are lit in grid 1000x1000 after following instructions:
+        - turn on 0,0 through 999,999 
+        - toggle 0,0 through 999,0 ...
 hometask #3
 
 ###Installing
