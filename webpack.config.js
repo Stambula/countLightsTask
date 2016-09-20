@@ -3,9 +3,9 @@ var path = require('path');
 
 module.exports = {
 	context: path.resolve('js'),
-	entry: './js/script.es6',
+	entry: './script.es6',
 	output: {
-		filename: 'bundle.js'
+		filename: './bundle.js'
 	},
 
 	watch: true,
