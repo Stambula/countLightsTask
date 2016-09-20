@@ -3,7 +3,6 @@ var path = require('path');
 
 
 module.exports = {
-	context: path.resolve('js'),
 	entry: './script.es6',
 	output: {
 		filename: './bundle.js'
