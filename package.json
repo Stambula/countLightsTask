@@ -1,0 +1,27 @@
+{
+  "name": "countLightsTask",
+  "version": "1.0.0",
+  "description": "hometask #3",
+  "main": "bundle.js",
+  "dependencies": {
+    "webpack": "^1.13.2",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stambula/countLightsTask.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stambula/countLightsTask/issues"
+  },
+  "homepage": "https://github.com/Stambula/countLightsTask#readme"
+}
