@@ -1,9 +1,6 @@
 "use strict"
 
 import {message} from "./instructions"
-console.log(message);
-
-
 
 var div = document.getElementById('first-res');
 let instructions = message.split(';');
