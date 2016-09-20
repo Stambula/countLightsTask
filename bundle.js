@@ -50,8 +50,6 @@
 
 	var _instructions = __webpack_require__(1);
 
-	console.log(_instructions.message);
-
 	var div = document.getElementById('first-res');
 	var instructions = _instructions.message.split(';');
 
