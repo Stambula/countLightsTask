@@ -2,7 +2,7 @@
 hometask #3
 
 
-npm install web pack
+npm install webpack
 
 -webpack
 
