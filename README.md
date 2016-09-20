@@ -1,10 +1,21 @@
-# countLightsTask
+# transport-Task
+
+
 hometask #3
 
+###Installing
 
-npm install webpack
+A step by step series of examples that tell you have to get a development env running
+Stay what the step will be
+---------------------------------------------
+clone repository on your computer
 
--webpack
+        $ git clone https://github.com/Stambula/countLightsTask.git
+        
+        
+then create run command
 
-npm install babel-loader babel-core babel-preset-es2015 --save-dev
-
+      $ npm install 
+      $ webpack
+      
+open *index.html* file with your browser
